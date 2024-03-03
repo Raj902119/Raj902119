@@ -6,17 +6,17 @@
 ## About Me
 
 
-<p align="center">🚀 <b>Coding is My Playground:</b> I'm passionate about the MERN stack (JavaScript, React.js, Node.js, and MongoDB), and I use it to tackle a variety of projects on my GitHub. You'll find a blend of personal challenges and even some experimental ventures where I push the limits of web development.</p>
+<p>🚀 <b>Coding is My Playground:</b> I'm passionate about the MERN stack (JavaScript, React.js, Node.js, and MongoDB), and I use it to tackle a variety of projects on my GitHub. You'll find a blend of personal challenges and even some experimental ventures where I push the limits of web development.</p>
 
-<p align="center">🧩 <b>Collaboration is Key:</b> "Collaboration is where the magic happens! I'm always seeking to learn from and contribute to awesome teams. You'll find evidence of my collaborative spirit in my GitHub projects. If you're looking for a coding partner, let's connect!"</p>
+<p>🧩 <b>Collaboration is Key:</b> "Collaboration is where the magic happens! I'm always seeking to learn from and contribute to awesome teams. You'll find evidence of my collaborative spirit in my GitHub projects. If you're looking for a coding partner, let's connect!"</p>
 
-<p align="center">💡 <b>Continuous Learning:</b> My GitHub is more than a code dump; it's a growth chart. I'm on an endless quest to learn, improve, and adapt, embracing the ever-evolving tech landscape.</p>
+<p>💡 <b>Continuous Learning:</b> My GitHub is more than a code dump; it's a growth chart. I'm on an endless quest to learn, improve, and adapt, embracing the ever-evolving tech landscape.</p>
 
-<p align="center">👩‍💻 <b>Projects with a Punch:</b> From the API Fortress that monitors and secures API usage, to Tralio - a no-code solution for creating professional portfolios, each project here tells a story of problem-solving, creativity, and tech wizardry.</p>
+<p>👩‍💻 <b>Projects with a Punch:</b> From the API Fortress that monitors and secures API usage, to Tralio - a no-code solution for creating professional portfolios, each project here tells a story of problem-solving, creativity, and tech wizardry.</p>
 
 ## Let's Connect!
 
-<p align="center">🌟 <b>Let's Connect the Dots:</b> Got an idea or project in mind? Looking for a coding partner to bring an exciting concept to life? Drop me a message or fork one of my repos. Let's make the open-source community even more vibrant together!</p>
+<p>🌟 <b>Let's Connect the Dots:</b> Got an idea or project in mind? Looking for a coding partner to bring an exciting concept to life? Drop me a message or fork one of my repos. Let's make the open-source community even more vibrant together!</p>
 
 ## 💻 Tech Stack:
 
